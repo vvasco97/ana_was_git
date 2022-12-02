@@ -1,0 +1,6 @@
+spring:
+  redis:
+    host: <redis 엔드포인트>
+    port: 6379
+    session:
+      store-type: redis
